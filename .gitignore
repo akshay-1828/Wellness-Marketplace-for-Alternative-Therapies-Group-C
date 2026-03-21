@@ -1,0 +1,20 @@
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Backend (Spring Boot)
+target/
+*.log
+*.class
+
+# Frontend (React)
+node_modules/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
